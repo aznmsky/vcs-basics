@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aznm/Library/Application Support/JetBrains/Rider2021.1/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/VCSBasics.csproj": {}
+  },
+  "projects": {
+    "/Users/aznm/Library/Application Support/JetBrains/Rider2021.1/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/VCSBasics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aznm/Library/Application Support/JetBrains/Rider2021.1/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/VCSBasics.csproj",
+        "projectName": "VCSBasics",
+        "projectPath": "/Users/aznm/Library/Application Support/JetBrains/Rider2021.1/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/VCSBasics.csproj",
+        "packagesPath": "/Users/aznm/.nuget/packages/",
+        "outputPath": "/Users/aznm/Library/Application Support/JetBrains/Rider2021.1/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aznm/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.prostream.ru/api/nuget/MyContentNugetLocal": {},
+          "https://artifactory.prostream.ru/api/nuget/StreamInfrastructureNugetLocal": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
